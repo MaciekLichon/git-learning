@@ -16,5 +16,6 @@ h2 {
 }
 
 test-prefxer {
+  display: -ms-flexbox;
   display: flex;
 }
